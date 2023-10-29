@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/jaypeeig/bun-monorepo#readme",
   "workspaces": [
-    "apps/*",
-    "packages/*"
+    "apps/**",
+    "packages/**"
   ]
 }
 
