@@ -1,7 +1,3 @@
 <template>
-    <div>
-      <pre>
-        Welcome to my site!
-      </pre>
-    </div>
-  </template>
+    <h1>Hello Bun!</h1>
+</template>
