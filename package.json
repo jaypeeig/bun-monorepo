@@ -4,6 +4,7 @@
   "description": "Bun monorepo example setup",
   "scripts": {
     "dev-website": "bun run --cwd apps/website dev",
+    "dev-api": "bun run --cwd apps/bff-api start:dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
