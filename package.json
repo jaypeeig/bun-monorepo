@@ -1,0 +1,26 @@
+{
+  "name": "bun-monorepo",
+  "version": "0.0.1",
+  "description": "Bun monorepo example setup",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaypeeig/bun-monorepo.git"
+  },
+  "keywords": ["bun", "monorepo"],
+  "author": "jaypeeig+bun@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaypeeig/bun-monorepo/issues"
+  },
+  "homepage": "https://github.com/jaypeeig/bun-monorepo#readme",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
+
+
+
